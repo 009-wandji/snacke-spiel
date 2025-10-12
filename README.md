@@ -49,4 +49,5 @@ Wandji Nkamgnia Gregoire Jordan
 Engagierter Auszubildender im Bereich Softwareentwicklung, motiviert durch praktisches Lernen und technisches Wachstum.
 
 📧 Kontakt : wandji009@gmail.com  
+📞 WhatsApp :https://wa.me/654822995
 
