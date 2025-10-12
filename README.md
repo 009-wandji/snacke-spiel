@@ -1,45 +1,52 @@
 🐍 Snake Game – Klassisches Schlangenspiel in Python
 
-Dies ist ein klassisches Snake-Spiel, das mit der Programmiersprache Python und der Bibliothek Pygame entwickelt wurde.  
+Ein einfaches, aber unterhaltsames Snake-Spiel, entwickelt mit Python und der Pygame-Bibliothek. Perfekt für Anfänger im Bereich der Spieleentwicklung oder für alle, die nostalgische Spiele lieben.
 
-🎮 Der Download ist direkt über mein Portfolio möglich – klicken Sie einfach auf das Bild des Spiels, um die lokale Version herunterzuladen und zu spielen.  
+---
 
-⚠ Hinweis: Das Spiel funktioniert ausschließlich auf dem PC (Windows/Linux/Mac mit installiertem Python).
+🎮 Verfügbarkeit
+
+Der Download ist direkt über mein Portfolio möglich:  
+👉🏾 Einfach auf das Bild des Spiels klicken, um die lokale Version herunterzuladen und zu spielen.
+
+⚠ Hinweis: Dieses Spiel ist nur auf dem PC (Windows, Linux oder macOS) ausführbar. Eine Installation von Python ist erforderlich.
 
 ---
 
 🚀 Hauptfunktionen
 
-- Steuerung der Schlange mit den Pfeiltasten  
-- Echtzeit-Spielgeschwindigkeit und zunehmender Schwierigkeitsgrad  
-- Automatisches Game Over bei Kollisionen  
-- Punktestand wird während des Spiels angezeigt  
-- Kompaktes und reaktionsschnelles Spielverhalten  
+- 🕹 Steuerung der Schlange mit den Pfeiltasten  
+- 📈 Steigende Geschwindigkeit für mehr Herausforderung  
+- 💥 Automatisches Game Over bei Kollision mit sich selbst oder dem Rand  
+- 🧮 Live-Anzeige des aktuellen Punktestands  
+- ⚡ Flüssiges Gameplay in Echtzeit  
 
 ---
 
 🛠 Verwendete Technologien
 
-- Python  
+- Python 3.x  
 - Pygame  
-- Lokale Ausführung (kein Browser-Spiel)
+- Lokale Ausführung über Terminal oder IDE (kein Browser-Spiel)
 
 ---
 
-⚙ Installation und Ausführung
+⚙ Installation & Ausführung
 
-1. Installieren Sie Python auf Ihrem PC (mindestens Version 3.x)  
-2. Installieren Sie Pygame mit dem Befehl:  
+1. Installiere Python (mind. Version 3.x) auf deinem PC
+
+2. Installiere Pygame mit folgendem Befehl:  
    pip install pygame  
-3. Laden Sie das Projekt herunter  
-4. Führen Sie es im Terminal oder in einer IDE mit folgendem Befehl aus:  
+3. Lade das Projekt herunter  
+4. Starte das Spiel im Terminal oder über deine IDE mit:  
    python snake_game.py
 
 ---
 
 👤 Autor
 
-Wandji Nkamgnia Gregoire Jordan
+Wandji Nkamgnia Gregoire Jordan  
+Engagierter Auszubildender im Bereich Softwareentwicklung, motiviert durch praktisches Lernen und technisches Wachstum.
 
-Engagierter Auszubildender im Bereich Softwareentwicklung, motiviert durch praktisches Lernen und technisches Wachstum.  
-📧 Kontakt: wandji009@gmail.com
+📧 Kontakt : wandji009@gmail.com  
+🔗 GitHub : [github.com/009-wandji](https://github.com/009-wandji)
